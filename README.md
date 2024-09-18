@@ -4,9 +4,7 @@ Submitted by: **Bhupinder jit Mehton**
 
 This web app: **One month holiday schedule**
 
-Time spent: **6** hours spent in total
-
-
+Time spent: **3** hours spent in total
 
 ## Video Walkthrough
 
