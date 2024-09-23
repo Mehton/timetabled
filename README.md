@@ -1,4 +1,4 @@
-# Web Development Project 1 - _TimeTabled_
+# Web Development lab 1 - _TimeTabled_
 
 Submitted by: **Bhupinder jit Mehton**
 
